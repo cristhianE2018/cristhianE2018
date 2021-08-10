@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Cristhian Enrique Olivares Lara, I'm currently studying a master's degree in Applied Computing at LANIA.
 <!--
 **cristhianE2018/cristhianE2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
