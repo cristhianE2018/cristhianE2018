@@ -3,8 +3,7 @@
 My name is Cristhian Enrique Olivares Lara, I'm currently studying a master's degree in Applied Computing at LANIA.
 I started in the programming since six years ago when I entered college. I've collaborated in projects about web sites, desktop applications and mobile apps.
 
-<img src="perfil.jpg" width='500' align="center">
-
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,6 +27,8 @@ I started in the programming since six years ago when I entered college. I've co
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/cristhianolivareslara/?hl=es-la)
 
 </p>
+
+##### If you can imagine it, you can program it! - Alejandro Taboada
 <!--
 **cristhianE2018/cristhianE2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
