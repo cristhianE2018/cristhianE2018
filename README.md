@@ -30,7 +30,7 @@ My Website : https://cristhiane2018.github.io/?fbclid=IwAR2wdNYiIzRwzVhztXaYFFnd
 
 </p>
 
-##### If you can imagine it, you can program it! - Alejandro Taboada
+
 <!--
 **cristhianE2018/cristhianE2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
